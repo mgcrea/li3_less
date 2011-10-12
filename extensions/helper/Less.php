@@ -8,7 +8,7 @@
 
 namespace less\extensions\helper;
 
-require(__DIR__ . '/../../libraries/lessphp/lessc.inc.php');
+//require(__DIR__ . '/../../libraries/lessphp/lessc.inc.php');
 
 use lithium\core\Libraries;
 
